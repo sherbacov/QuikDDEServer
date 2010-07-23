@@ -1,0 +1,7 @@
+D:\Projects\QuikDDE\QuikDDE\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\QuikDDE\QuikDDE\bin\Debug\QuikDDE.dll
+D:\Projects\QuikDDE\QuikDDE\bin\Debug\QuikDDE.pdb
+D:\Projects\QuikDDE\QuikDDE\bin\Debug\NDde.dll
+D:\Projects\QuikDDE\QuikDDE\bin\Debug\NDde.xml
+D:\Projects\QuikDDE\QuikDDE\obj\Debug\QuikDDE.dll
+D:\Projects\QuikDDE\QuikDDE\obj\Debug\QuikDDE.pdb
